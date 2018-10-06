@@ -1,19 +1,29 @@
 ## App Dev - App Brainstorming 
 
-## Favorite Existing Apps - Lis
+## Favorite Existing Apps - List
 1.Facebook
-2.Instagram
-3.Kingschat
-4.OneNote
-5.PhotoGrid
-6.Venmo
-7.Whatsapp
-8.Google Maps
-9.Messenger
-10.Uber
-11.Spark
-12.Citymapper
 
+2.Instagram
+
+3.Kingschat
+
+4.OneNote
+
+5.PhotoGrid
+
+6.Venmo
+
+7.Whatsapp
+
+8.Google Maps
+
+9.Messenger
+
+10.Uber
+
+11.Spark
+
+12.Citymapper
 
 ## Favorite Existing Apps - Categorize and Evaluate
 ### Instagram/FB Messenger/Snapchat/Whatsapp/Kingschat
@@ -40,7 +50,7 @@
 
 2. Reservation App
    - **Description**: This is an All-In-One reservation app that allows users to make an appointment or reserve so many things like a doctor's office, restaurant, barber, make-up artist,tax accountant
-  
+ 
 ## New App Ideas - Evaluate and Categorize
 1. GroupTravel App
  - **Description**: This app makes all travel activities between participants much more easier and secure.
