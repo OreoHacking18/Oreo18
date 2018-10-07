@@ -52,7 +52,10 @@
 
 2. Reservation App
    - This is an All-In-One reservation app that allows users to make an appointment or reservation at a doctor's office, a restaurant, a barbershop,a make-up store & a tax preparation agency.
- 
+
+3. Nanny Finder App
+   - This app helps all parents easily find nannies for their child within their radius.
+
 ## New App Ideas - Evaluate and Categorize
 1. GroupTravel App
    - **Description**: This app makes all travel activities between participants much more easier and secure.
