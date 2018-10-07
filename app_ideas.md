@@ -77,3 +77,4 @@
     -  **Market:** This app can be used by everyone no matter the age. We can have a freemium and premium version. We can have ads on the freemium version.
    - **Habit:** This is an app that will be used daily because it contains several components. You always have men who want to do their haircut without waiting for long hours at a barbershop, likewise a make-up store or a tax prep store.
    - **Scope:** This is a robust app which requires a lot of hardwork and determination to fulfill. However, it could be tested with different barbershops, restaurants, make-up store, tax prep agencies.
+   The End!
