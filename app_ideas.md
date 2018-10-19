@@ -82,7 +82,8 @@
    - **Habit:** This is an app that will be used daily because it contains several components. You always have men who want to do their haircut without waiting for long hours at a barbershop, likewise a make-up store or a tax prep store.
    - **Scope:** This is a robust app which requires a lot of hardwork and determination to fulfill. However, it could be tested with different barbershops, restaurants, make-up store, tax prep agencies.
    
-   3. Nanny Finder App
+   
+ 3. Nanny Finder App
    - **Description**: This app will help all parents easily find nannies for their child within their radius.
     - **Category**: Social Networking, Child Care
     - **Story**: 
