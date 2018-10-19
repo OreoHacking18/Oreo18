@@ -41,6 +41,7 @@
 ## Top 2 New App Ideas
 1. GroupTravel App
 2. Reservation App
+3. Nanny Finder App
 
 ## New App Ideas - List
 1. GroupTravel App
@@ -50,6 +51,9 @@
 
 2. Reservation App
    - This is an All-In-One reservation app that allows users to make an appointment or reservation at a doctor's office, a restaurant, a barbershop,a make-up store & a tax preparation agency.
+   
+3. Nanny Finder App
+   - This app helps all parents easily find nannies for their child within their radius.
  
 ## New App Ideas - Evaluate and Categorize
 1. GroupTravel App
@@ -77,3 +81,15 @@
     -  **Market:** This app can be used by everyone no matter the age. We can have a freemium and premium version. We can have ads on the freemium version.
    - **Habit:** This is an app that will be used daily because it contains several components. You always have men who want to do their haircut without waiting for long hours at a barbershop, likewise a make-up store or a tax prep store.
    - **Scope:** This is a robust app which requires a lot of hardwork and determination to fulfill. However, it could be tested with different barbershops, restaurants, make-up store, tax prep agencies.
+   
+   3. Nanny Finder App
+   - **Description**: This app will help all parents easily find nannies for their child within their radius.
+    - **Category**: Social Networking, Child Care
+    - **Story**: 
+     -  1. Users can find nannies around their area very quickly.
+     -  2. It would be interactive platform where user will be able to rate nannies and create reviews based on the experience as well.
+     -  3. The app will also have options for users to filter the search based on their preference.
+   -   **Market**: The app is usable by anyone who has a child and need a care from a nanny for their child. This app will be free.
+   -   **Habit:** In Context of Usa, we have very large number of families who have small children and since most of the parents have work, they are constantly looking for nannies for their children. This app would definitely be a great contribution for those parents. If not daily, this app would be used multiple times a week by the user.
+   -   **Scope:** V1 would allow the Nannies to create and add their profile on the app. This could actually be tested by the real nannies. V2 would include parents using the app to find nannies locally based on their prefrences. V3 would allow parents to rate nannies based on the satisfaction.
+
