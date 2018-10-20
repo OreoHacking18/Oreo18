@@ -2,7 +2,7 @@
 Travel Smart
 
 ### App Description
-// This app allows all travellers can see everyone’s live location (locations only available to participants). This feature helps travellers to not get lost. This also allows users to split the bill more easily at the end of the meal. Imagine everyone has to hand out their credits card seperately, that’s a lot of work !!! Instead one person pays for all and then that person can click a button to make a request money from everyone else. This app also allows participants share their pictures privately so that they can save their best memories.
+//This app allows all travellers can see everyone’s live location (locations only available to participants). This feature helps travellers to not get lost. This also allows users to split the bill more easily at the end of the meal. Imagine everyone has to hand out their credits card seperately, that’s a lot of work !!! Instead one person pays for all and then that person can click a button to make a request money from everyone else. This app also allows participants share their pictures privately so that they can save their best memories.
 
 ### App Idea Evaluation
 - Mobile: Mobile is essential for the instant logging of all travellers.
