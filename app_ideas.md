@@ -84,6 +84,7 @@
    - **Scope:** This is a robust app which requires a lot of hardwork and determination to fulfill. However, it could be tested with different barbershops, restaurants, make-up store, tax prep agencies.
 
 3. Nanny Finder App
+  
    - **Description**: This app will help all parents easily find nannies for their child within their radius.
     - **Category**: Social Networking, Child Care
     - **Story**: 
