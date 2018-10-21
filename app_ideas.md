@@ -40,12 +40,12 @@
 - **Scope**: Facebook has a very big scope. It is accesible for everyone and it has billions of users. 
 
 ## Top 3 New App Ideas
-1. GroupTravel App
+1. SmartTravel
 2. Reservation App
 3. Nanny Finder App
 
 ## New App Ideas - List
-1. GroupTravel App
+1. SmartTravel
     - This app allows all travellers can see everyone's live location (locations only available to participants). This feature helps travellers don't get lost.
     -  This also allows users to split the bill more easily at the end of the meal. Imagine everyone has to hand out their credits card seperately, that's a lot of work !!! Instead one person pays for all and then that person can click a button to make a request money from everyone else
     -  This app also allows participants share their pictures privately so that they can save their best memories.
@@ -57,7 +57,7 @@
    - This app helps all parents easily find nannies for their child within their radius.
 
 ## New App Ideas - Evaluate and Categorize
-1. GroupTravel App
+1. SmartTravel
    - **Description**: This app makes all travel activities between participants much more easier and secure.
     - **Category**: Social, Travel
    - **Mobile:** Mobile is essential for the instant logging of all travellers. 
