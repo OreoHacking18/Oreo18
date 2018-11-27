@@ -19,12 +19,11 @@
 
 
 ### Wireframes
-// TODO: Add Wireframe Images
+![alt text](https://github.com/OreoHacking18/Oreo18/blob/master/Screen%20Shot%202018-11-27%20at%205.48.18%20PM.png?raw=true)
 
+<img src="https://media.giphy.com/media/Bze2dk6gKwBbu1eVHn/giphy.gif" width=200><br>
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
-
-
 
 
 
